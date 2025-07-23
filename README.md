@@ -29,8 +29,8 @@ The application provides:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd ollama-agent-chat
+   git clone https://github.com/youssef22karam/Ollama-Agent-Chat.git
+   cd Ollama-Agent-Chat
    ```
 
 2. **Install dependencies**:
